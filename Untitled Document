@@ -1,3 +1,0 @@
-nikos@nikos-ubuntu:~/Desktop/MSc Thesis$ export PATH=/home/nikos/anaconda3/bin:$PATH
-nikos@nikos-ubuntu:~/Desktop/MSc Thesis$  source ~/.bashrc
-
