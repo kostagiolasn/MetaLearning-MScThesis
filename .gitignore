@@ -1,3 +1,4 @@
 _cache/
 mnist/
 cifar10/
+tmp/
