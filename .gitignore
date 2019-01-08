@@ -1,7 +1,6 @@
 _cache/
 mnist/
 cifar10/
-tmp/
 emnist/
 fashionmnist/
 img/

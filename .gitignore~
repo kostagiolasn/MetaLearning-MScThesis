@@ -3,7 +3,7 @@ mnist/
 cifar10/
 tmp/
 emnist/
-fashionmnis/
+fashionmnist/
 img/
 stl10/
 svhn/

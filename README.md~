@@ -19,7 +19,6 @@ goal of the thesis is to explore the generalization capabilities of this form of
 meta-learning that usually comes in the form of a recurrent neural network
 optimizer, thus attempting to extend previous studies on learning optimiza-
 tion algorithms.
-
 The thesis also involves an implementation of the relevant experiments in
 PyTorch, a recently introduced deep learning framework that is widely pop-
 ular throughout the research community and the code will be open-sourced
