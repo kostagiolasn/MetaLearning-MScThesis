@@ -1,1 +1,11 @@
 _cache/
+mnist/
+cifar10/
+tmp/
+emnist/
+fashionmnis/
+img/
+stl10/
+svhn/
+tmp/
+bibliography/
